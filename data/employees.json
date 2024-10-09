@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "jabatan": "Section Head",
+    "nama": "Bambang Setiawan",
+    "nomor": 661
+  },
+  {
+    "id": 2,
+    "jabatan": "Secretary",
+    "nama": "Eko Lilis",
+    "nomor": 212
+  },
+  {
+    "id": 3,
+    "jabatan": "Project Administrator",
+    "nama": "Denden",
+    "nomor": 551
+  },
+  {
+    "id": 4,
+    "jabatan": "Spv Safety K3",
+    "nama": "Galih Purwanto/ Adit",
+    "nomor": 510
+  },
+  {
+    "id": 5,
+    "jabatan": "Manager Utility",
+    "nama": "Tunggul Raharjo",
+    "nomor": 572
+  },
+  {
+    "id": 6,
+    "jabatan": "S. Head Elka/Utility",
+    "nama": "Haryanto",
+    "nomor": 633
+  },
+  {
+    "id": 7,
+    "jabatan": "Supervisor Utility",
+    "nama": "Rosita",
+    "nomor": 635
+  },
+  {
+    "id": 8,
+    "jabatan": "Spv. Workshop",
+    "nama": "Saiful/Asep Pujanto/Anang",
+    "nomor": 251
+  },
+  {
+    "id": 9,
+    "jabatan": "Manager Engineering",
+    "nama": "Kristianto",
+    "nomor": 636
+  },
+  {
+    "id": 10,
+    "jabatan": "S. Head Mekanik/Planner",
+    "nama": "M. Shalafudin/Zuhri",
+    "nomor": 634
+  },
+  {
+    "id": 11,
+    "jabatan": "S. Head Elka/Utility",
+    "nama": "Riza S",
+    "nomor": "633"
+  }
+]
